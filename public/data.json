@@ -224,7 +224,7 @@
     [
       "2021/10/13",
       "飲食店",
-      "",
+      "https://sanskruthiya.github.io/geoloniaTanaka/poi_tanaka_24_1.jpg",
       "35.911117",
       "139.956825",
       "中国家庭料理　凛",
@@ -233,11 +233,20 @@
     [
       "2021/10/13",
       "オフィス",
-      "",
+      "https://sanskruthiya.github.io/geoloniaTanaka/poi_tanaka_25_1.jpg",
       "35.913952",
       "139.960389",
       "三協フロンティア",
       "三協フロンティアのオフィス。ベンチャー企業のような外観で目を引くが、部外者は中に入れない模様。是非、見学会とか開いてほしい。"
+    ],
+    [
+      "2022/5/19",
+      "公園",
+      "https://sanskruthiya.github.io/geoloniaTanaka/poi_tanaka_26_1.jpg",
+      "35.904329",
+      "139.962237",
+      "たなかT公園",
+      "2022年春に開園した「」"
     ]
   ]
 }
